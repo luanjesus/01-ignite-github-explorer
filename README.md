@@ -1,4 +1,4 @@
-<h1 align="center">Github Explorer
+<h1 align="center">Github Explorer<br>
   <img alt="Github Explorer screenshot" src="./assets/rocketseat_repositorio.JPG" />
 </h1>
 
@@ -8,9 +8,10 @@ This application aimed to train the construction of an application using React a
 
 The concepts of componentization, immutability, state of components and their hooks such as useState and useEffect, among others, were also reinforced.
 
-Please feel free to contribute to <a href="#Improvement">improvements ideas</a> to the project.
+Please feel free to contribute to improvements ideas to the project.
 
-<h2>Main Technologies</h2>
+# Main Technologies
+
 *Front-end*
 - React JS
 - Typescript
@@ -24,9 +25,8 @@ Please feel free to contribute to <a href="#Improvement">improvements ideas</a> 
 - How to create components
 - How to use github repository api (*https://api.github.com/orgs/rocketseat/repos*)
 
-<a href="#Improvement">
-<h2>Improvement ideas</h2>
-</a>
+# Improvement ideas
+
 - [ ] Give the option to choose the Github user / organization that you want to check the repositories for.
 - [ ] Change the title "Lista de repositório" to "Lista de repositório do {user}".
 - [ ] Make pagination.
