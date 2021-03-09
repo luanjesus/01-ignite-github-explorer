@@ -9,7 +9,7 @@ This application aimed to train the construction of an application using React a
 
 The concepts of componentization, immutability, state of components and their hooks such as useState and useEffect, among others, were also reinforced.
 
-Please feel free to contribute to improvements to the project.
+Please feel free to contribute to <a href="#Improvement">improvements ideas</a> to the project.
 
 # Main Technologies
 *Front-end*
@@ -25,9 +25,9 @@ Please feel free to contribute to improvements to the project.
 - How to create components
 - How to use github repository api (*https://api.github.com/orgs/rocketseat/repos*)
 
-# Improvement ideas
-[] - Give the option to choose the Github user / organization that you want to check the repositories for.
-[] - Change the title "Lista de repositório" to "Lista de repositório do {user}".
-[] - Make pagination.
-[] - Allow searching for repositories by name.
-[] - Allow filtering repositories by languages. 
+<a href="#Improvement"></a># Improvement ideas
+- [ ] Give the option to choose the Github user / organization that you want to check the repositories for.
+- [ ] Change the title "Lista de repositório" to "Lista de repositório do {user}".
+- [ ] Make pagination.
+- [ ] Allow searching for repositories by name.
+- [ ] Allow filtering repositories by languages. 
